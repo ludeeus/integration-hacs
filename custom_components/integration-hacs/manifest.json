@@ -5,5 +5,5 @@
   "dependencies": [],
   "codeowners": ["@ludeeus"],
   "requirements": [],
-  "homeassistant": "0.96.0"
+  "homeassistant": "0.95.0"
 }
